@@ -15,11 +15,11 @@ cd my-site && php cms install
 |---|---|
 | [lettern](https://github.com/letterncms/lettern) | The project you install to start a site |
 | [cms](https://github.com/letterncms/cms) | The core: content, users, the admin and what plugins build on |
-| [plugins](https://github.com/letterncms/plugins) | The plugins we build, such as the site builder, forms and the AI assistant |
+| [plugins-public](https://github.com/letterncms/plugins-public) | The free plugins we build, such as the site builder, forms and the AI assistant |
 | [docs](https://github.com/letterncms/docs) | The documentation |
 | [dev](https://github.com/letterncms/dev) | The workspace for working on all of it |
 
-The repositories named after a single plugin are published from [plugins](https://github.com/letterncms/plugins) for Composer to install from.
+The repositories marked `[READ ONLY]` are published from [plugins-public](https://github.com/letterncms/plugins-public) for Composer to install from.
 
 ## Get involved
 
