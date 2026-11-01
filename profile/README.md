@@ -17,12 +17,11 @@ cd my-site && php cms install
 | [cms](https://github.com/letterncms/cms) | The core: content, users, the admin and what plugins build on |
 | [plugins-public](https://github.com/letterncms/plugins-public) | The free plugins we build, such as the site builder, forms and the AI assistant |
 | [docs](https://github.com/letterncms/docs) | The documentation |
-| [dev](https://github.com/letterncms/dev) | The workspace for working on all of it |
 
 The repositories marked `[READ ONLY]` are published from [plugins-public](https://github.com/letterncms/plugins-public) for Composer to install from.
 
 ## Get involved
 
-Issues and pull requests are welcome in the repository they're about, and [dev](https://github.com/letterncms/dev) gets you running in one command. To report a vulnerability, please use [private reporting](https://github.com/letterncms/cms/security/advisories/new).
+Issues and pull requests are welcome in the repository they're about. Clone it and its README gets you running: see [how to contribute](https://github.com/letterncms/.github/blob/main/CONTRIBUTING.md). To report a vulnerability, please use [private reporting](https://github.com/letterncms/cms/security/advisories/new).
 
 Free and open source under the MIT licence.
